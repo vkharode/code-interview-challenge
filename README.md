@@ -1,2 +1,2 @@
-# code-interview-challenge
-KPMG code interview challenge 
+# code challenge for KPMG 
+
